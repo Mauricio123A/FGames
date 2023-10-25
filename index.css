@@ -85,7 +85,7 @@ header > h1{
     width: 100%;
     height: 20%;
     text-align: center;
-    font-size: calc(0.7vw + 30px);
+    font-size: calc(0.6vw + 25px);
     font-family: 'NTR', sans-serif;
 }
 .Tarjeta > img{
