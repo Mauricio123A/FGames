@@ -34,7 +34,7 @@ body > div > *{
     padding-bottom: 2vw;
 }
 body > div > h2{
-    font-size: calc(1vh + 2vw);
+    font-size: calc(1vh + 1.8vw);
 }
 header{
     width: 100vw;
