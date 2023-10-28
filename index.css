@@ -28,13 +28,13 @@ body > div{
 }
 body > div > *{
     font-family: 'NTR', sans-serif;
-    font-size: calc(1vh + 2vw);
+    font-size: calc(1vh + 1vw);
     text-align: center;
     color: rgba(0,0,0, 0.8);
     padding-bottom: 2vw;
 }
 body > div > h2{
-    font-size: calc(2vh + 3vw);
+    font-size: calc(1vh + 2vw);
 }
 header{
     width: 100vw;
