@@ -53,14 +53,14 @@ header > div{
 }
 header > div > a{
     font-family: 'Pixelify Sans', sans-serif;
-    font-size: calc(2vh + 4vw);
+    font-size: calc(2vh + 6vw);
     color: rgba(0,0,0, 0.5);
     padding-bottom: 2vw;
     text-decoration: none;
 }
 header > h1{
     font-family: 'Pixelify Sans', sans-serif;
-    font-size: calc(2vh + 6vw);
+    font-size: calc(2vh + 8vw);
     color: rgba(0,0,0, 0.5);
     margin-left: 2vw;
     padding-bottom: 2vw;
